@@ -1,0 +1,8 @@
+D:\111\81\obj\Debug\81.csproj.AssemblyReference.cache
+D:\111\81\obj\Debug\81.csproj.CoreCompileInputs.cache
+D:\111\81\bin\Debug\81.exe.config
+D:\111\81\bin\Debug\81.exe
+D:\111\81\bin\Debug\81.pdb
+D:\111\81\obj\Debug\81.exe
+D:\111\81\obj\Debug\81.pdb
+D:\111\81\obj\Debug\81.exe.config
